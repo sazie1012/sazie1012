@@ -3,7 +3,7 @@ My professional portfolio
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=mrspecht&style=for-the-badge&color=2aa889">
+<img src="https://komarev.com/ghpvc/?username=sazie1012&style=for-the-badge&color=2aa889">
 
 ##
 
